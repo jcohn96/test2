@@ -22,4 +22,6 @@ git clean --remove untracked files
 toworzymy nowy plik gitignore do niego wsadzamy poczatek sciezki 
 (wzorzec) ktory nie ma zostac zakomitowany
 
+git branch:
+git checkout -b "nazwa_brancha" - dodajemy nowy branch
  
